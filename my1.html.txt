@@ -2,6 +2,10 @@
    		 <body>
         			<h1>This is the first clone</h1>
 
+<<<<<<< HEAD
+=======
+        			<h1>This is the branching</h1>
+>>>>>>> fasb
 
     		</body>
 </html>
